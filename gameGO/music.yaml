@@ -1,0 +1,4 @@
+attach: audiosource/audiosource
+
+audiosource.music: IPGP_Music1(AUTUMN).mp3
+audiosource.music.playing: 1

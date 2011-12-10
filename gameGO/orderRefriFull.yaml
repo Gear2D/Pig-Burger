@@ -1,0 +1,5 @@
+attach: renderer/renderer 
+
+renderer.surfaces: texture=Textures/bebida_itens/refri_completo.png
+
+texture.position.z: 22

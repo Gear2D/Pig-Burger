@@ -1,0 +1,5 @@
+attach: renderer/renderer
+
+renderer.surfaces: bg=Textures/lanchonete_arvores_fundo.png
+
+bg.position.z: -1000

@@ -1,0 +1,7 @@
+attach: renderer/renderer button/button
+
+renderer.surfaces: texture=Textures/bandeja_itens/alface.png
+
+texture.position.x: 473
+texture.position.y: 482
+texture.position.z: 200

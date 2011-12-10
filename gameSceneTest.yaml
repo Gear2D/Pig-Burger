@@ -1,0 +1,7 @@
+objpath: gameGO/
+compath: /usr/local/lib/gear2d/component,.
+
+objects: explosion1
+
+renderer.w: 800
+renderer.h: 600

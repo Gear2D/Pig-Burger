@@ -1,0 +1,7 @@
+objpath: ./
+compath: /usr/local/lib/gear2d/component,.
+
+objects: splash
+
+renderer.w: 800
+renderer.h: 600

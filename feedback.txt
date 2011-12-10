@@ -1,0 +1,4 @@
+- Ao ler uma informação incorreta com read não há um feeedback ou warning
+- locate poderia retornar um array de objetos quando houver mais de um objeto com o mesmo nome
+- musica n�o para ao carregar outra cena.
+- Como fazer heran�a de componentes?

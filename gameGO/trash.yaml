@@ -1,0 +1,7 @@
+attach: renderer/renderer button/button
+
+renderer.surfaces: texture=Textures/lanchonete_itens/lixo_recycle.png
+
+texture.position.x: 50
+texture.position.y: 354
+texture.position.z: 200

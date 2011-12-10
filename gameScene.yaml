@@ -1,0 +1,7 @@
+objpath: gameGO/
+compath: /usr/local/lib/gear2d/component,.
+
+objects: refri juice iceCream background balcon buttonManager head_pig_life pig1 pig2 pig3 music
+
+renderer.w: 800
+renderer.h: 600

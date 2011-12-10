@@ -1,0 +1,7 @@
+attach: renderer/renderer button/button
+
+renderer.surfaces: texture=Textures/restart_button.png
+
+texture.position.x: 504
+texture.position.y: 4
+texture.position.z: 200

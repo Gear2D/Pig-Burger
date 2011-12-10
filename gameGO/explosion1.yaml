@@ -1,0 +1,12 @@
+attach: animation/noSheet
+
+renderer.surfaces: 0=Textures/bacon_explosion2/bacon0000.png 1=Textures/bacon_explosion2/bacon0001.png 2=Textures/bacon_explosion2/bacon0002.png 3=Textures/bacon_explosion2/bacon0003.png 4=Textures/bacon_explosion2/bacon0004.png 5=Textures/bacon_explosion2/bacon0005.png 6=Textures/bacon_explosion2/bacon0006.png 7=Textures/bacon_explosion2/bacon0007.png 8=Textures/bacon_explosion2/bacon0008.png 9=Textures/bacon_explosion2/bacon0009.png 10=Textures/bacon_explosion2/bacon0010.png 11=Textures/bacon_explosion2/bacon0011.png 12=Textures/bacon_explosion2/bacon0012.png 13=Textures/bacon_explosion2/bacon0013.png 14=Textures/bacon_explosion2/bacon0014.png 15=Textures/bacon_explosion2/bacon0015.png 16=Textures/bacon_explosion2/bacon0016.png 17=Textures/bacon_explosion2/bacon0017.png 18=Textures/bacon_explosion2/bacon0018.png 19=Textures/bacon_explosion2/bacon0019.png 20=Textures/bacon_explosion2/bacon0020.png 21=Textures/bacon_explosion2/bacon0021.png 22=Textures/bacon_explosion2/bacon0022.png 23=Textures/bacon_explosion2/bacon0023.png 24=Textures/bacon_explosion2/bacon0024.png 25=Textures/bacon_explosion2/bacon0025.png 26=Textures/bacon_explosion2/bacon0026.png 27=Textures/bacon_explosion2/bacon0027.png 28=Textures/bacon_explosion2/bacon0028.png 29=Textures/bacon_explosion2/bacon0029.png 30=Textures/bacon_explosion2/bacon0030.png 31=Textures/bacon_explosion2/bacon0031.png 32=Textures/bacon_explosion2/bacon0032.png 33=Textures/bacon_explosion2/bacon0033.png 34=Textures/bacon_explosion2/bacon0034.png 35=Textures/bacon_explosion2/bacon0035.png 36=Textures/bacon_explosion2/bacon0036.png 37=Textures/bacon_explosion2/bacon0037.png 38=Textures/bacon_explosion2/bacon0038.png 39=Textures/bacon_explosion2/bacon0039.png 40=Textures/bacon_explosion2/bacon0040.png
+
+animation.path: Textures/bacon_explosion2/bacon00
+animation.extension: .png
+animation.frameRate: 0.033333
+animation.beginFrame: 0
+animation.finalFrame: 40
+animation.x: 40
+animation.y: -50
+animation.z: 21

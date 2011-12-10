@@ -1,0 +1,10 @@
+attach: pig/pig audiosource/audiosource
+
+finalX: 585
+explosion: explosion3
+audiosource.sounds: error=MenuState_Error.wav victory=MenuState_Select_Forward.wav squeal=squeal3.wav snort=snort.wav boom=boom.wav
+error.playing: 0
+victory.playing: 0
+squeal.playing: 0
+snort.playing: 0
+boom.wav: 0

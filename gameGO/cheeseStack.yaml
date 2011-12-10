@@ -1,0 +1,6 @@
+attach: renderer/renderer
+
+renderer.surfaces: texture=Textures/sandwich_itens/queijo_prabaixo.png
+
+texture.position.x: 250
+texture.position.z: 200

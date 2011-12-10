@@ -1,0 +1,7 @@
+attach: renderer/renderer button/button
+
+renderer.surfaces: texture=Textures/bandeja_itens/hamburguers.png
+
+texture.position.x: 156
+texture.position.y: 482
+texture.position.z: 200

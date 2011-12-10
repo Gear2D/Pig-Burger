@@ -1,0 +1,7 @@
+attach: renderer/renderer
+
+renderer.surfaces: image=Textures/click_to_start.png
+
+x: 281
+y: 257
+z: 2

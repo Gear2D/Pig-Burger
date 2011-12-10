@@ -1,0 +1,10 @@
+attach: renderer/renderer life/clipLife
+
+renderer.surfaces: texture=Textures/head_pig_life.png
+
+texture.position.z: 1000
+texture.position.y: 4
+life.clipSize: 54
+life.units: 3
+life.current: 3
+life.gameOverScene: gear2d

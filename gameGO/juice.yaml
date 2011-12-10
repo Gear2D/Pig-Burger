@@ -1,0 +1,20 @@
+attach: renderer/renderer animation/drink
+
+renderer.surfaces: empty=Textures/bebida_itens/suco_vazio.png frame1=Textures/bebida_itens/suco_meio_vazio.png frame2=Textures/bebida_itens/suco_meio_cheio.png frame3=Textures/bebida_itens/suco_quase_cheio.png complete=Textures/bebida_itens/suco_completo.png
+
+empty.position.x: 562
+empty.position.y: 312
+empty.position.z: 10000
+frame1.position.x: 562
+frame1.position.y: 312
+frame1.position.z: -1200
+frame2.position.x: 562
+frame2.position.y: 312
+frame2.position.z: -1200
+frame3.position.x: 562
+frame3.position.y: 312
+frame3.position.z: -1200
+complete.position.x: 562
+complete.position.y: 312
+complete.position.z: -1200
+frameRate: 1

@@ -1,0 +1,5 @@
+attach: renderer/renderer splash/splash
+
+renderer.surfaces: bg=Textures/splash_lanchonete.png
+
+splash.nextScene: tutorialScene

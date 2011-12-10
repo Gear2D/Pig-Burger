@@ -1,0 +1,6 @@
+attach: renderer/renderer
+
+renderer.surfaces: texture=Textures/sandwich_itens/pao_de_baixo_menor.png
+
+texture.position.x: 250
+texture.position.z: 200

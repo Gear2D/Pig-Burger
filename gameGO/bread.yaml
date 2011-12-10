@@ -1,0 +1,7 @@
+attach: renderer/renderer button/button
+
+renderer.surfaces: texture=Textures/bandeja_itens/paes.png
+
+texture.position.x: 12
+texture.position.y: 482
+texture.position.z: 200

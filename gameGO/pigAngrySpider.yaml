@@ -1,0 +1,7 @@
+attach: renderer/renderer button/button
+
+renderer.surfaces: texture=Textures/porco_humor2/porco_aranha_raiva.png
+
+texture.position.x: 800
+texture.position.y: 90
+texture.position.z: 20

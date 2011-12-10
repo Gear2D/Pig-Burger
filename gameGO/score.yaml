@@ -1,0 +1,10 @@
+attach: renderer/renderer
+
+renderer.texts: exemplo
+
+exemplo.text: Texto de exemplo pra ser exibido
+exemplo.font: LCDM2N__.TTF
+exemplo.font.size: 16
+exemplo.font.r: 1
+exemplo.font.g: 1
+exemplo.font.b: 1

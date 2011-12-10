@@ -1,0 +1,6 @@
+attach: renderer/renderer
+
+renderer.surfaces: bg=Textures/lanchonete_itens/balcao_novo_layout2.png
+
+bg.position.y: 309
+bg.position.z: 50

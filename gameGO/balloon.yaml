@@ -1,0 +1,7 @@
+attach: renderer/renderer button/button
+
+renderer.surfaces: texture=Textures/balao_dialogo.png
+
+texture.position.x: 0
+texture.position.y: 90
+texture.position.z: 21

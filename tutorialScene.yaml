@@ -1,0 +1,7 @@
+objpath: tutorialGO/
+compath: /usr/local/lib/gear2d/component,.
+
+objects: tutorial
+
+renderer.w: 800
+renderer.h: 600
