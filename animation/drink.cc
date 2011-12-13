@@ -84,8 +84,14 @@ private:
 		// test for mouse position
 		if (read<float>("empty.position.x") <= read<int>("mouse.x") && (read<float>("empty.position.x") + read<int>("empty.position.w")) >= read<int>("mouse.x") ) {
 			if (read<float>("empty.position.y") <= read<int>("mouse.y") && (read<float>("empty.position.y") + read<int>("empty.position.h")) >= read<int>("mouse.y") ) {
-				startAnimation();
-				return true;
+				if (!animating) {
+					startAnimation();
+					return true;
+				} else {
+// 					frameIndex++;
+// 					timer = 0;
+// 					update(0);
+				}
 			}
 		}
 		return false;
@@ -98,6 +104,7 @@ private:
 			animating = true;
 			timer = 0.0f;
 			frameIndex = 1;
+			
 		}
 	}
 	
@@ -119,7 +126,7 @@ public:
 	
 	virtual component::type type() {return "drink";}
 	virtual component::family family() {return "animation";}
-	virtual std::string depends() {return "mouse/mouse";} //TODO: add renderer/renderer
+	virtual std::string depends() {return "mouse/mouse renderer/renderer";} //TODO: add renderer/renderer
 	virtual void setup(object::signature & sig) {
 		//write<bool>("hitTest", false);
 		//hook("hitTest");
